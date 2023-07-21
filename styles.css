@@ -1,0 +1,81 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+  }
+
+.logo {
+    width: 15%;
+}
+
+.centralizar_logo {
+    text-align: center;
+}
+
+  .documento {
+      width: 75%;
+      margin: 0 auto;
+  }
+
+  h1 {
+    text-align: center;
+    width: 60%;
+    margin: 0 auto;
+    font-size: 13pt;
+  }
+
+  h2 {
+      font-size: 12pt;
+      margin-top: 40px;
+  }
+
+  p {
+    text-align: justify;
+    font-size: 11pt;
+  }
+
+  .identacao {
+      margin-left: 30px;
+  }
+
+  .sublinhado {
+      text-decoration: underline;
+  }
+
+  .azul {
+      color: rgb(0, 0, 255);
+  }
+
+  .input {
+    border: none;
+    border-bottom: 1px solid black;
+    text-align: center; 
+    outline: 0;
+  }
+
+  .prazo {
+    width: 40px;
+  }
+
+  .quantia {
+    width: 100px;
+  }
+
+.leads {
+    width: 70px;
+}
+
+  footer {
+      text-align: center;  
+      margin-top: 50px;
+  }
+
+  .custom-field {
+    border: 1px solid #ccc;
+    padding: 5px;
+    width: 150px;
+  }
+
+  .conteudo_rodape {
+      margin: 0 auto;
+      display: flex;
+      justify-content: space-evenly;
+  }
